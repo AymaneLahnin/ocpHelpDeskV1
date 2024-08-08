@@ -25,7 +25,7 @@ $errorMessage = $users->login();
 
 <body>
 
-    <div class="container2" id="container">
+    <div class="container2" id="container2">
         <div class="form-container sign-up">
             <form>
                 <h1>Don't have an account?</h1>
