@@ -88,7 +88,7 @@ CREATE TABLE `hd_users` (
 --
 
 INSERT INTO `hd_users` (`id`, `email`, `password`, `create_date`, `name`, `user_type`, `status`) VALUES
-(1, 'angelo@ocp.com', 'yohoho123', '2022-07-31 23:24:33', 'angelo angora ', 'admin', 1);
+(1, 'aymane@ocp.com', '202cb962ac59075b964b07152d234b70', '2022-07-31 23:24:33', 'aymane lahnin ', 'admin', 1);
 
 -- Indexes for table `hd_departments`
 --
